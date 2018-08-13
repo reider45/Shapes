@@ -1,4 +1,4 @@
-package me.reid.Spheres;
+package me.reid.Spheres.Shapes;
 
 import org.bukkit.Location;
 import org.bukkit.Particle;

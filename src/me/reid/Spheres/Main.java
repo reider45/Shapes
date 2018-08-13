@@ -8,6 +8,9 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
+import me.reid.Spheres.Shapes.HourGlass;
+import me.reid.Spheres.Shapes.Shape;
+
 public class Main extends JavaPlugin implements CommandExecutor {
 
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
