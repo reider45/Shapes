@@ -1,0 +1,7 @@
+name: Spheres
+main: me.reid.Spheres.Main
+version: 1.0
+author: reider45
+api-version: 1.13
+commands:
+   create:
